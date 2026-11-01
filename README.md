@@ -361,9 +361,6 @@ All five CRUD endpoints are tested using Postman.
 
 ![Books API response](screenshots/04-browser-books.png)
 
-### Nodemon Automatic Restart
-
-![Nodemon restart](screenshots/14-nodemon-restart.png)
 
 ---
 
