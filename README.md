@@ -67,7 +67,7 @@ backend-lab-2/
 │   ├── 11-database-schema.png
 │   ├── 12-database-records.png
 │   ├── 13-database-count.png
-│   └── 14-nodemon-restart.png
+│  
 │
 ├── .gitignore
 ├── .node-version
